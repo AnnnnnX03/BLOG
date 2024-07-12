@@ -1,7 +1,7 @@
 
 # Welcome to Mia's Blog
 
-![Mia's Avatar](/img/default_avatar.png)  <!-- Replace with the URL of your avatar -->
+![Mia's Avatar](/img/default_avatar.png) {: width='30%'}  <!-- Replace with the URL of your avatar -->
 
 Hi, I'm **Mia**! 
 
